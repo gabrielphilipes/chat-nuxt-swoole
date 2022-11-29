@@ -1,0 +1,21 @@
+{
+    "name": "root/html",
+    "autoload": {
+        "psr-4": {
+            "Root\\Html\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gabriel Philipe"
+        }
+    ],
+    "require": {
+        "openswoole/ide-helper": "@dev"
+    },
+  "config": {
+    "platform": {
+      "php": "8.1"
+    }
+  }
+}
