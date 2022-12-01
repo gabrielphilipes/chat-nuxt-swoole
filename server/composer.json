@@ -11,7 +11,8 @@
         }
     ],
     "require": {
-        "openswoole/ide-helper": "@dev"
+        "openswoole/ide-helper": "@dev",
+      "ext-json": "*"
     },
   "config": {
     "platform": {
